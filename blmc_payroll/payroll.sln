@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "blmc_payroll", "payroll\blmc_payroll.vbproj", "{5BBAB743-C85F-4846-885C-6084709578EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BBAB743-C85F-4846-885C-6084709578EC}.Debug|x86.ActiveCfg = Debug|x86
+		{5BBAB743-C85F-4846-885C-6084709578EC}.Debug|x86.Build.0 = Debug|x86
+		{5BBAB743-C85F-4846-885C-6084709578EC}.Release|x86.ActiveCfg = Release|x86
+		{5BBAB743-C85F-4846-885C-6084709578EC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48954CCE-62A2-4578-AE8E-04AD8F5023D5}
+	EndGlobalSection
+EndGlobal

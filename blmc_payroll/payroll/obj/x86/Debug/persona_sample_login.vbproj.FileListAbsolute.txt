@@ -1,0 +1,13 @@
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\bin\Debug\persona_sample_login.exe.config
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\bin\Debug\persona_sample_login.exe
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\bin\Debug\persona_sample_login.pdb
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\bin\Debug\persona_sample_login.xml
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\obj\x86\Debug\persona_sample_login.vbprojResolveAssemblyReference.cache
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\obj\x86\Debug\persona_sample_login.Form1.resources
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\obj\x86\Debug\persona_sample_login.Resources.resources
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\obj\x86\Debug\persona_sample_login.vbproj.GenerateResource.Cache
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\obj\x86\Debug\persona_sample_login.exe
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\obj\x86\Debug\persona_sample_login.xml
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\obj\x86\Debug\persona_sample_login.pdb
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\obj\x86\Debug\persona_sample_login.login.resources
+c:\users\mcdinos005\documents\visual studio 2010\Projects\persona_sample_login\persona_sample_login\obj\x86\Debug\persona_sample_login.welcome.resources

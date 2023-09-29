@@ -1,0 +1,93 @@
+.month-grid{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    .grid-item{ 
+        margin:5px;
+        border:1px dashed #a0a0a0;
+        padding:10px 20px;
+        &:hover{
+            background-color: #ececec;
+            transition: background-color 1s;
+            font-weight: bold;
+        }
+        &.disabled{
+            cursor:not-allowed;
+            background-color: #8a8a8a;
+        }
+        a{
+            padding:10px;
+            width:100%;
+            
+        }
+    }
+}
+.printable-header{
+    display: none;       
+}
+@media print{
+    body{
+        margin: 0;
+    }
+    @page {
+        size:13in 8.5in;
+       
+    }
+
+    .printable-header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width:100%;
+        margin-top:-100px;
+        
+        .logo{
+            img{
+                width:100px;
+                height:100px;
+                border-radius:50%;
+            }
+            padding:5px;
+            margin:10px;
+        }
+
+        .details{
+            display: flexbox;
+            justify-content: center;
+            h4{
+                padding:0;
+                margin-bottom:0;
+                font-weight: 900;
+            }
+            p{
+                margin-bottom: 0;
+            }
+            .date{
+                font-size:7pt;
+                font-style: italic;
+                position:absolute;
+                right:40px;
+                &:before{
+                    content: 'For the Period: ';
+                }
+            }
+        }
+    }
+
+    table>thead>th{
+        font-weight: bold;
+    }
+    .header-top,.app-sidebar,.footer,.print{
+        display: none;
+    }
+    .wrapper .page-wrap .main-content{
+        padding-left:0;
+    }
+    .print-head{
+        font-size:20pt;
+        font-weight: bold;
+        &:after{
+            content: ' Report';
+        }
+    }
+}
